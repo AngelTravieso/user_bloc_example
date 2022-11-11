@@ -1,3 +1,4 @@
+// Como se encuenta el estado de la aplicacion
 part of 'user_bloc.dart';
 
 @immutable
